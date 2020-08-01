@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "pausedpanorama",
+	"version": "${version}",
+	"name": "Paused Panorama",
+	"description": "Pauses the rotating panorama on the title screen.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Paused-Panorama#readme",
+		"issues": "https://github.com/haykam821/Paused-Panorama/issues"
+	},
+	"environment": "client",
+	"mixins": [
+		"pausedpanorama.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/pausedpanorama/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "io.github.haykam821.pausedpanorama.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"client": [
+		"RotatingCubeMapRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
