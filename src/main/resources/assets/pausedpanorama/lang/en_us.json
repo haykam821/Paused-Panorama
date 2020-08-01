@@ -1,0 +1,7 @@
+{
+	"text.autoconfig.pausedpanorama.option.panoramaX": "Panorama X",
+	"text.autoconfig.pausedpanorama.option.panoramaX.@Tooltip": "The forced panorama X position.",
+	"text.autoconfig.pausedpanorama.option.panoramaY": "Panorama Y",
+	"text.autoconfig.pausedpanorama.option.panoramaY.@Tooltip": "The forced panorama Y position.",
+	"text.autoconfig.pausedpanorama.title": "Paused Panorama Configuration"
+}
